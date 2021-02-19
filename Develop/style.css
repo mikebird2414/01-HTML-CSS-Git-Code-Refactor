@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* HEADER */
+/* HEADER*/
 
 header {
     padding: 20px;
@@ -25,7 +25,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+    color: #1ce6cb;
 }
 
 header nav {

@@ -1,5 +1,12 @@
 # 01 HTML CSS Git: Code Refactor
 
+Within the HTML5 file first the semantics were altered from "div" to header, nav, main, aside, section, and footer. THis was done to make the code more readable as to the locations where changes are made in CSS files. The alt tags were entered with more discriptive information to discribe the images placed wihtin the code. Commints were added to each semantic to sepperate the sections and changes within the html.
+
+CSS file there were a few changes made with the adjustments of the HTML file. classes were made into elements to cut down on repeated classes. 
+
+Git Resository Link: https://github.com/mikebird2414/01-HTML-CSS-Git-Code-Refactor
+
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
@@ -25,6 +32,8 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+
+
 
 ## Acceptance Criteria
 
@@ -109,6 +118,7 @@ This homework is graded based on the following criteria:
 * Repository contains multiple descriptive commit messages.
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
+
 
 ## Review
 
