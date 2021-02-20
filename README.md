@@ -23,4 +23,4 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-![Screenshot] (https://github.com/mikebird2414/01-HTML-CSS-Git-Code-Refactor_/Users/megatron/gt-bootcamp/homework/Horiseon Webpage.jpg)
+![Screenshot] (https://github.com/mikebird2414/01-HTML-CSS-Git-Code-Refactor_/Users/megatron/gt-bootcamp/homework/Horiseon Webpage.png)
