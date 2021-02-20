@@ -25,5 +25,5 @@ THEN I find a concise, descriptive title
 ```
 
 ![Screenshot](./assets/images/Horiseon.png)
-![HTML Code](./assets/images/HTMLss2.png)
+![HTML Code](./assets/images/HTMLss.png)
 ![CSS Code](./assets/images/CSSss.png)
