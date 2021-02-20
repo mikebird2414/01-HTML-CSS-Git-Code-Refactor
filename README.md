@@ -24,4 +24,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![Screenshot](/Users/megatron/gt-bootcamp/homework/week1/assets/images/Horiseon Webpage.png)
+![Screenshot](./assets/images/Horiseon.png)
