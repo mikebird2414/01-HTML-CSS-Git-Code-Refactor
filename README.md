@@ -23,7 +23,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+### Screenshot Results
 
-![Screenshot](./assets/images/Horiseon.png)
+![Webpage](./assets/images/Horiseon.png)
 ![HTML Code](./assets/images/HTMLss.png)
 ![CSS Code](./assets/images/CSSss.png)
